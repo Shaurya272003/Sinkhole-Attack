@@ -54,7 +54,6 @@ Nodes 11, 12, 16, 21, 28, 35, 46, and 57 did not receive any packets, which sugg
 
 The overall_delivery_ratio is 3.1%.
 
-result
 
 Contributing
 Contributions are welcome! If you'd like to improve the project or add new features, please fork the repository and create a pull request. Feel free to open issues for any questions or suggestions.
